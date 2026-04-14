@@ -1,0 +1,96 @@
+﻿---
+- title: "Worcestershire County Council - Expenses - January 2026 - Supplier Dossier: DIMENSIONS PERSONALISED SUPPORT"
+- entity_id: "DIMENSIONS PERSONALISED SUPPORT"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-04-14T15:41:32+02:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: DIMENSIONS PERSONALISED SUPPORT
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £684,409.31
+- **Invoice Frequency**: 24 payments processed
+- **Mean Transaction Value**: £28,517.05
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: Over_500_Spend_Report_January_2026_1.csv ]
+- [REF: Worcestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.worcestershire.gov.uk/sites/default/files/2026-03/Over%20%C2%A3500%20Spend%20Report%20January%202026_1.xlsx ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £684,409.31
+- **Transaction Volume**: 24 Invoices
+- **Lead Department**: Adults & Communities
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: Over_500_Spend_Report_January_2026_1.csv ]
+- [REF: Worcestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.worcestershire.gov.uk/sites/default/files/2026-03/Over%20%C2%A3500%20Spend%20Report%20January%202026_1.xlsx ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | Adults & Communities | £684,409 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: Over%20%C2%A3500%20Spend%20Report%20January%202026_1.xlsx ]
+- [REF: Worcestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.worcestershire.gov.uk/sites/default/files/2026-03/Over%20%C2%A3500%20Spend%20Report%20January%202026_1.xlsx ]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £6977.76 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £910.14 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £622.72 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £62222.85 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £86327.9 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £7887.89 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £7064.44 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £2306.81 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £41628.07 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £134751.87 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £114688.2 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £12637.45 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £14763.74 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £12620.61 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £3488.88 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £41727.99 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £37421.02 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £3824.76 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £3532.22 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+- Paid £2004.48 to DIMENSIONS PERSONALISED SUPPORT (Adults & Communities)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: Over_500_Spend_Report_January_2026_1.csv ]
+- [REF: Worcestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.worcestershire.gov.uk/sites/default/files/2026-03/Over%20%C2%A3500%20Spend%20Report%20January%202026_1.xlsx ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+| `02/01/26` | 7 | £172,013.70 | `***  ` |
+|  `13/01/26` | 7 | £333,396.75 | `*****` |
+| `20/01/26` | 5 | £89,994.87 | `*    ` |
+| `27/01/26` | 5 | £89,003.99 | `*    ` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: Over_500_Spend_Report_January_2026_1.csv ]
+- [REF: Worcestershire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://www.worcestershire.gov.uk/sites/default/files/2026-03/Over%20%C2%A3500%20Spend%20Report%20January%202026_1.xlsx ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
